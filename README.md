@@ -4,3 +4,4 @@
 ![Byte类常量](https://github.com/zyz136/Java/blob/master/3.png)
 ![Byte类常用方法](https://github.com/zyz136/Java/blob/master/4.png)
 ![格式化模板](https://github.com/zyz136/Java/blob/master/5.png)
+![Math类方法](https://github.com/zyz136/Java/blob/master/6.png)
